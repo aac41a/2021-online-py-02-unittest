@@ -1,7 +1,7 @@
 from Geometria_.model.Geometria import Geometria
 from Geometria_.view.View import View
 
-#comentarios
+#linea de #comentarios
 
 if __name__ == '__main__':
     g = Geometria(2.00, 3.10, 4.00)
